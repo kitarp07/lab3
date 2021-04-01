@@ -11,5 +11,6 @@ elif temperature<10:
 else:
     print('its neither cold nor hot')
 
+num=19
 
 
