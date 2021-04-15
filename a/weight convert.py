@@ -12,3 +12,5 @@ if unit == 'lbs':
 elif unit =='kg':
     weight_in_lbs = weight*2.205
     print(f'{weight} kg is equal to {weight_in_lbs } lbs')
+else:
+ print('error')
